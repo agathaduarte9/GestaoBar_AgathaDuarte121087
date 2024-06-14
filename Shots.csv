@@ -1,0 +1,13 @@
+id,name,price,bebidas
+400,Tequila Shot,2.0,"[Tequila, Lemon]"
+401,Vodka Shot,2.0,"[Vodka]"
+402,Jägermeister Shot,3.0,"[Jägermeister]"
+403,Whiskey Shot,2.0,"[Whiskey]"
+404,Rum Shot,2.0,"[Rum]"
+405,Sambuca Shot,3.0,"[Sambuca]"
+406,Fireball Shot,3.5,"[Fireball Whiskey]"
+407,Absinthe Shot,2.0,"[Absinthe]"
+408,Baileys Shot,3.0,"[Baileys Irish Cream]"
+409,Patrón XO Café Shot,3.5,"[Patrón XO Café]"
+410,Shot de Tuza,2.0,"[Jugo de Limón, Tuza]"
+411,Jaegerbomb,7.0,"[Redbull, Jägermeister]"

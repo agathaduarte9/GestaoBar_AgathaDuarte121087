@@ -1,0 +1,12 @@
+id,name,price,bebidas
+300,Martini,10.0,"[Gin, Vermouth]"
+301,Daiquiri,8.0,"[Rum, Citrus Juice, Sugar]"
+302,Caipirinha,7.0,"[Cachaça, Sugar, Lime]"
+303,Mojito,7.5,"[White Rum, Sugar, Lime Juice, Soda Water, Mint]"
+304,Gin Tonic,9.0,"[Gin, Tonic Water]"
+305,Long Island Iced Tea,12.0,"[Vodka, Tequila, Light Rum, Triple Sec, Gin, Cola]"
+306,Espresso Martini,11.0,"[Vodka, Espresso Coffee, Coffee Liqueur, Sugar Syrup]"
+307,Piña Colada,10.0,"[Rum, Coconut Cream, Pineapple Juice]"
+308,Aperol Spritz,8.5,"[Aperol, Prosecco, Soda Water]"
+309,Moscow Mule,9.5,"[Vodka, Ginger Beer, Lime Juice]"
+310,Cuba Libre,7.0,"[Cola, Rum, Lime Juice]"

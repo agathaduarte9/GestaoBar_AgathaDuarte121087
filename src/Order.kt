@@ -1,0 +1,1 @@
+data class Order(val product: Produto, var quantity: Int)

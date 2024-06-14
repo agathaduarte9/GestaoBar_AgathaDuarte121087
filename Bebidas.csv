@@ -1,0 +1,61 @@
+id,name,price,category,type of drink,brand
+101,Corona,3.0,beer,alcohol,Corona
+102,Heineken,3.5,beer,alcohol,Heineken
+103,SuperBock,2.75,beer,alcohol,SuperBock
+104,SuperBock Stouts,2.75,beer,alcohol,SuperBock
+105,Panaché,2.0,pression beer,alcohol,SuperBock
+106,Tango,2.0,pression beer,alcohol,SuperBock
+107,Diesel,2.0,pression beer,alcohol,SuperBock
+108,Somersby,2.5,cider,alcohol,Somersby
+109,Somersby Watermelon,2.5,cider,alcohol,Somersby
+110,Somersby Mango,2.5,cider,alcohol,Somersby
+111,Somersby Blackberry,2.5,cider,alcohol,Somersby
+112,Marqués de Riscal Reserva,8.0,wine,alcohol,Marqués de Riscal
+113,Protos Roble,6.5,wine,alcohol,Protos
+114,Vega Sicilia Único,9.0,wine,alcohol,Vega Sicilia
+115,Albariño Martín Códax,5.0,wine,alcohol,Martín Códax
+116,Absolut,6.0,vodka,alcohol,Absolut
+117,Grey Goose,7.5,vodka,alcohol,Grey Goose
+118,Belvedere,8.0,vodka,alcohol,Belvedere
+119,Smirnoff,5.5,vodka,alcohol,Smirnoff
+120,Smirnoff Ice,2.5,vodka,alcohol,Smirnoff
+121,Smirnoff Ice Apple,2.5,vodka,alcohol,Smirnoff
+122,Havana Club Añejo 7 Años,6.0,rum,alcohol,Havana Club
+123,Captain Morgan Spiced,6.5,rum,alcohol,Captain Morgan
+124,Bacardí Carta Blanca,5.0,rum,alcohol,Bacardí
+125,Brugal,7.0,rum,alcohol,Brugal
+126,Jack Daniel's,8.0,whiskey,alcohol,Jack Daniel's
+127,Jim Beam,6.5,whiskey,alcohol,Jim Beam
+128,Chivas Regal 12,9.0,whiskey,alcohol,Chivas Regal
+129,Jameson,7.5,whiskey,alcohol,Jameson
+130,Bombay Sapphire,7.0,gin,alcohol,Bombay Sapphire
+131,Hendrick's,8.5,gin,alcohol,Hendrick's
+132,Tanqueray,6.5,gin,alcohol,Tanqueray
+133,Beefeater,6.0,gin,alcohol,Beefeater
+134,Baileys Irish Cream,5.5,liqueur,alcohol,Baileys
+135,Amaretto Disaronno,6.0,liqueur,alcohol,Disaronno
+136,Grand Marnier,7.0,liqueur,alcohol,Grand Marnier
+137,Coca-Cola,2.0,soft drink,non-alcoholic,Coca-Cola
+138,Pepsi,2.0,soft drink,non-alcoholic,Pepsi
+139,Sprite,2.0,soft drink,non-alcoholic,Sprite
+140,Fanta,2.0,soft drink,non-alcoholic,Fanta
+141,Evian,1.5,water,non-alcoholic,Evian
+142,Perrier,1.5,water,non-alcoholic,Perrier
+143,Pedras Lemon,1.5,water,non-alcoholic,Pedras
+144,Pedras Passion Fruit,1.5,water,non-alcoholic,Pedras
+145,Pedras Red Fruits,1.5,water,non-alcoholic,Pedras
+146,Natural Orange Juice,2.5,juice,non-alcoholic,House Drink
+147,Natural Pineapple Juice,2.5,juice,non-alcoholic,House Drink
+148,Natural Passion Fruit Juice,2.5,juice,non-alcoholic,House Drink
+149,Natural Mango Juice,3.0,juice,non-alcoholic,House Drink
+150,Coffee,1.0,coffee,non-alcoholic,Delta
+151,Decaffeinated,1.0,coffee,non-alcoholic,Delta
+152,Latte,1.25,coffee,non-alcoholic,Delta
+153,Americano,1.0,coffee,non-alcoholic,Delta
+154,Tinto de verano,4.0,sangria,alcohol,House Drink
+155,White Sangria,5.5,sangria,alcohol,House Drink
+156,Red Sangria,5.5,sangria,alcohol,House Drink
+157,Passion Fruit Sangria,5.5,sangria,alcohol,House Drink
+158,Sparkling Sangria,6.0,sangria,alcohol,House Drink
+159,Caneca,3.5,pression beer,alcohol,SuperBock
+160,Fino,2.0,pression beer,alcohol,SuperBock
